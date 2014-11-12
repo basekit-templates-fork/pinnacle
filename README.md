@@ -1,4 +1,2 @@
-Desktop
+Pinnacle
 =======
-
-BaseKit Standard Template
