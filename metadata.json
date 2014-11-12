@@ -1,7 +1,7 @@
 {
-	"name":"Desktop",
-	"thumbnail":"desktop.png",
-	"screenshot":"desktop.png",
+	"name":"Pinnacle",
+	"thumbnail":"pinnacle.png",
+	"screenshot":"pinnacle.png",
     "tags": { "en": ["minimal", "clean", "slideshow", "red", "portfolio", "box-shadow", "bright", "art", "design"] },
     "pageTypes":["home"],
     "templateType":"standard",
@@ -10,7 +10,7 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#01b4f0",
-            "color3":"#e03531",
+            "color3":"#3176E0",
             "color4":"#291716",
             "color5":"#888888",
             "color6":"#ffffff",
