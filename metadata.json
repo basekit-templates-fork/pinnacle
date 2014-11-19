@@ -54,7 +54,9 @@
         }
     },
     "images":[
-        "images/feature-bg.jpg"
+        "images/slideshow-1.jpg",
+        "images/slideshow-2.jpg",
+        "images/slideshow-3.jpg"
     ],
     "fontSwatch": {
        "title": "Raleway",
