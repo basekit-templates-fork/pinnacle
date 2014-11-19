@@ -10,7 +10,7 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#01b4f0",
-            "color3":"#3176E0",
+            "color3":"#000000",
             "color4":"#291716",
             "color5":"#888888",
             "color6":"#ffffff",
@@ -54,9 +54,9 @@
         }
     },
     "images":[
-        "images/slideshow-1.jpg",
-        "images/slideshow-2.jpg",
-        "images/slideshow-3.jpg"
+        "images/slideshow/slideshow-1.jpg",
+        "images/slideshow/slideshow-2.jpg",
+        "images/slideshow/slideshow-3.jpg"
     ],
     "fontSwatch": {
        "title": "Raleway",
