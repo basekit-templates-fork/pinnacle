@@ -1,65 +1,78 @@
 {
-	"name":"Pinnacle",
-	"thumbnail":"pinnacle.png",
-	"screenshot":"pinnacle.png",
-    "tags": { "en": ["minimal", "clean", "slideshow", "red", "portfolio", "box-shadow", "bright", "art", "design"] },
-    "pageTypes":["home"],
-    "templateType":"standard",
-    "colorSwatches":
-    {
+    "name": "Pinnacle",
+    "thumbnail": "pinnacle.png",
+    "screenshot": "pinnacle-screenshot.jpg",
+    "tags": {
+        "en": [
+            "minimal",
+            "clean",
+            "slideshow",
+            "red",
+            "portfolio",
+            "box-shadow",
+            "bright",
+            "art",
+            "design"
+        ]
+    },
+    "pageTypes": [
+        "home"
+    ],
+    "templateType": "standard",
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#000000",
-            "color4":"#ffc92c",
-            "color5":"#000000",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#000000",
+            "color4": "#ffc92c",
+            "color5": "#000000",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#841c2f",
-            "color4":"#291716",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#841c2f",
+            "color4": "#291716",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#4F7391",
-            "color4":"#291716",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#4F7391",
+            "color4": "#291716",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#73AD5C",
-            "color4":"#291716",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#73AD5C",
+            "color4": "#291716",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#4BA5A1",
-            "color4":"#291716",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#4BA5A1",
+            "color4": "#291716",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
         }
     },
-    "images":[
+    "images": [
         "images/slideshow/slideshow-img1.jpg",
         "images/slideshow/slideshow-img2.jpg",
         "images/slideshow/slideshow-img3.jpg"
     ],
     "fontSwatch": {
-       "title": "Raleway",
+        "title": "Raleway",
         "font1": {
             "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "42px",
@@ -110,7 +123,7 @@
             "color-hover": "@color-swatch3",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "14px",
